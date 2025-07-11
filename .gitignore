@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Private wordlists
+backend/wordlists/
+
+# OS junk
+.DS_Store
+*.swp
+
